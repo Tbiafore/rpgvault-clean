@@ -1,5 +1,5 @@
 Railway build cache buster - force fresh build
-Timestamp: 2025-01-22 23:42:00
-Build ID: rpgvault-clean-v3
-Cache breaker: 9583748291
-Force clean npm cache and node_modules removal
+Timestamp: 2025-01-22 23:47:00
+Build ID: rpgvault-clean-v4
+Cache breaker: 7462819304
+Fixed Node.js version specification in nixpacks
