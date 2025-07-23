@@ -1,5 +1,5 @@
 Railway build cache buster - force fresh build
-Timestamp: 2025-01-22 23:56:00  
-Build ID: rpgvault-clean-v6
-Cache breaker: 3947582910
-Fixed import path aliases to resolve Vite build module resolution issues
+Timestamp: 2025-01-23 00:00:00  
+Build ID: rpgvault-clean-v7
+Cache breaker: 5738291046
+Fixed critical import path aliases in App.tsx, not-found.tsx, and auth-page.tsx
