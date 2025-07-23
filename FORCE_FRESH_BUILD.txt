@@ -1,5 +1,5 @@
 Railway build cache buster - force fresh build
-Timestamp: 2025-01-23 00:03:00  
-Build ID: rpgvault-clean-v8
-Cache breaker: 9182736450
-Fixed additional critical imports: use-auth.tsx, toaster.tsx, protected-route.tsx
+Timestamp: 2025-01-23 00:08:00  
+Build ID: rpgvault-clean-v9
+Cache breaker: 4726183905
+Fixed toast system imports: toast.tsx lib/utils path and use-toast.ts component path
